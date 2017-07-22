@@ -1,4 +1,4 @@
-@import url(http://weloveiconfonts.com/api/?family=brandico);
+@import url(https://weloveiconfonts.com/api/?family=brandico);
 /* brandico */
 [class*="brandico-"]:before {
   font-family: 'brandico', sans-serif;
@@ -13,7 +13,7 @@ html, body {
 }
 
 body {
-  background: black;
+  background: #2A363B;
   min-height: 100%;
   font-family: "Arial", sans-serif;
 }
@@ -79,7 +79,7 @@ body {
           transform-style: preserve-3d;
   -webkit-transition: .4s ease-in-out;
   transition: .4s ease-in-out;
-  background: white;
+  background: #2A363B;
 }
 .card .inside.picked, .card .inside.matched {
   -webkit-transform: rotateY(180deg);
@@ -92,7 +92,8 @@ body {
           animation-delay: .4s;
 }
 .card .front, .card .back {
-  border: 1px solid black;
+  border: 7px solid #62af64;
+  border-radius: 10px;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   position: absolute;
@@ -101,6 +102,9 @@ body {
   width: 100%;
   height: 100%;
   padding: 20px;
+}
+.card .back {
+  background-color: #36a039
 }
 .card .front img, .card .back img {
   max-width: 100%;
@@ -195,9 +199,9 @@ body {
   display: block;
   font-size: 30px;
   border: none;
-  background: #4d4d4d;
-  background: -webkit-linear-gradient(#4d4d4d, #222);
-  background: linear-gradient(#4d4d4d, #222);
+  background: green;
+  background: -webkit-linear-gradient(green, #71f442);
+  background: linear-gradient(green, #71f442); 
   border: 1px solid #222;
   border-radius: 5px;
   color: white;
