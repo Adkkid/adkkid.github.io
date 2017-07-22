@@ -309,7 +309,7 @@ $("#modal-overlay").fadeIn("slow");
 	var cards = [
 		{
 			name: "abuse",
-			img: "http://i.imgur.com/KemQpSv.jpg",
+			img: "https://i.imgur.com/KemQpSv.jpg",
 			id: 1,
 		},
 		{
@@ -319,52 +319,52 @@ $("#modal-overlay").fadeIn("slow");
 		},
 		{
 			name: "privacy",
-			img: "http://i.imgur.com/J5bg7Aj.jpg",
+			img: "https://i.imgur.com/J5bg7Aj.jpg",
 			id: 3
 		},
 		{
 			name: "standard",
-			img: "http://i.imgur.com/A5mdJUF.jpg",
+			img: "https://i.imgur.com/A5mdJUF.jpg",
 			id: 4
 		}, 
 		{
 			name: "job",
-			img: "http://i.imgur.com/lJiD2qh.jpg",
+			img: "https://i.imgur.com/lJiD2qh.jpg",
 			id: 5
 		},
 		{
 			name: "relationship",
-			img: "http://i.imgur.com/KWUgIEP.jpg",
+			img: "https://i.imgur.com/KWUgIEP.jpg",
 			id: 6
 		},
 		{
 			name: "property",
-			img: "http://i.imgur.com/MEihCVt.jpg",
+			img: "https://i.imgur.com/MEihCVt.jpg",
 			id: 7
 		},
 		{
 			name: "assembly",
-			img: "http://i.imgur.com/cmpw38N.jpg",
+			img: "https://i.imgur.com/cmpw38N.jpg",
 			id: 8
 		},
 		{
 			name: "travel",
-			img: "http://i.imgur.com/lk2MWEf.jpg",
+			img: "https://i.imgur.com/lk2MWEf.jpg",
 			id: 9
 		},
 		{
 			name: "socialsecurity",
-			img: "http://i.imgur.com/47ahmXW.jpg",
+			img: "https://i.imgur.com/47ahmXW.jpg",
 			id: 10
 		},
 		{
 			name: "expression",
-			img: "http://i.imgur.com/Nsnkj8z.png",
+			img: "https://i.imgur.com/Nsnkj8z.png",
 			id: 11
 		},
 		{
 			name: "rockthearc",
-			img: "http://adirondackarc.org/images/rockarc.jpg",
+			img: "https://adirondackarc.org/images/rockarc.jpg",
 			id: 12
 		},
 	];
