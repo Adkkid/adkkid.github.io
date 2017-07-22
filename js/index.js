@@ -64,7 +64,7 @@ $("#modal-overlay").fadeIn("slow");
 						$(".picked").removeClass("picked");
 						$(".first").removeClass("first");
 						Memory.paused = false;
-					}, 600);
+					}, 1200);
 				}
 				if($(".matched").length == $(".card").length){
 					_.win();

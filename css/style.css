@@ -92,8 +92,8 @@ body {
           animation-delay: .4s;
 }
 .card .front, .card .back {
-  border: 7px solid #62af64;
-  border-radius: 10px;
+  border: 7px dashed #62af64;
+  border-radius: 15px;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
   position: absolute;
