@@ -370,4 +370,5 @@ $("#modal-overlay").fadeIn("slow");
 	];
     
 	Memory.init(cards);
+	Memory.win();
 })();

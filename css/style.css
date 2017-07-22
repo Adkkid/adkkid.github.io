@@ -1,4 +1,4 @@
-@import url(https://weloveiconfonts.com/api/?family=brandico);
+@import url(http://weloveiconfonts.com/api/?family=brandico);
 /* brandico */
 [class*="brandico-"]:before {
   font-family: 'brandico', sans-serif;
@@ -104,7 +104,7 @@ body {
   padding: 20px;
 }
 .card .back {
-  background-color: #36a039
+  background-color: #52994f
 }
 .card .front img, .card .back img {
   max-width: 100%;
@@ -209,8 +209,8 @@ body {
   cursor: pointer;
 }
 .modal .restart:hover {
-  background: -webkit-linear-gradient(#222, black);
-  background: linear-gradient(#222, black);
+  background: -webkit-linear-gradient(#71f442, green);
+  background: linear-gradient(#71f442, green);
 }
 .modal .message {
   text-align: center;
