@@ -364,7 +364,7 @@ $("#modal-overlay").fadeIn("slow");
 		},
 		{
 			name: "rockthearc",
-			img: "https://adirondackarc.org/images/rockarc.jpg",
+			img: "http://adirondackarc.org/images/rockarc.jpg",
 			id: 12
 		},
 	];
