@@ -134,7 +134,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 5
 				videoTally++
 				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/OCWj5xgu5Ng?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Tvkbrz6V_lM?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				}
 				else {
@@ -148,7 +148,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 6
 				videoTally++
 				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/OCWj5xgu5Ng?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/yl4eTb39rZs?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				}
 				else {
@@ -161,7 +161,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 7
 				videoTally++
 				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/OCWj5xgu5Ng?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/cLzS1Mev_zw?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				}
 				else {
@@ -200,7 +200,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 10
 				videoTally++
 				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/OCWj5xgu5Ng?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/rvGJ5OXRAr0?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				}
 				else {
@@ -234,7 +234,7 @@ $("#modal-overlay").fadeIn("slow");
 				$card.find('.back').addClass('success');
 				}
 				break;
-			default:// If something goes horribly wrong
+			default:// If something goes horribly wrong, this runs 
 				$(".first").removeClass("first");
 				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/OCWj5xgu5Ng?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
