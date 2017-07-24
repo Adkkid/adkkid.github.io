@@ -81,158 +81,158 @@ $("#modal-overlay").fadeIn("slow");
 				$(".first").removeClass("first");
 				lastID = 1
 				videoTally++
-				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1AbEPFSv9ac?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+				//if(videoTally > 10) {
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1AbEPFSv9ac?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("End Video set")
-				}
-				else {
+				//}
+				//else {
 				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1AbEPFSv9ac?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
-				}
+				//}
 				break;
 			case "2":// religion
 				$(".first").removeClass("first");
 				lastID = 2
 				videoTally++
-				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/MCvR_ImNKn4?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+				//if(videoTally > 10) {
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/MCvR_ImNKn4?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
-				}
-				else {
+				//}
+				//else {
 				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/MCvR_ImNKn4?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
-				}
+				//}
 				break;
 			case "3":// privacy
 				$(".first").removeClass("first");
 				lastID = 3
 				videoTally++
-				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/c1P5vY1_j-o?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+				//if(videoTally > 10) {
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/c1P5vY1_j-o?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
-				}
-				else {
+				//}
+				//else {
 				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/c1P5vY1_j-o?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
-				}
+				//}
 				break;
 			case "4":// living
 				$(".first").removeClass("first");
 				lastID = 4
 				videoTally++
-				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/4ewhH17Bea4?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+				//if(videoTally > 10) {
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/4ewhH17Bea4?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
-				}
-				else {
+				//}
+				//else {
 				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/4ewhH17Bea4?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
-				}
+				//}
 				break;
 			case "5":// job
 				$(".first").removeClass("first");
 				lastID = 5
 				videoTally++
-				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Tvkbrz6V_lM?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+				//if(videoTally > 10) {
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Tvkbrz6V_lM?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
-				}
-				else {
+				//}
+				//else {
 				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Tvkbrz6V_lM?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
-				}
+				//}
 				lastID = 5
 				break;
 			case "6":// relationships
 				$(".first").removeClass("first");
 				lastID = 6
 				videoTally++
-				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/yl4eTb39rZs?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+				//if(videoTally > 10) {
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/yl4eTb39rZs?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
-				}
-				else {
+				//}
+				//else {
 				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/yl4eTb39rZs?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
-				}
+				//}
 				break;
 			case "7":// property
 				$(".first").removeClass("first");
 				lastID = 7
 				videoTally++
-				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/cLzS1Mev_zw?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+				//if(videoTally > 10) {
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/cLzS1Mev_zw?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
-				}
-				else {
+				//}
+				//else {
 				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/cLzS1Mev_zw?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
-				}
+				//}
 				break;
 			case "8":// assembly
 				$(".first").removeClass("first");
 				lastID = 8
 				videoTally++
-				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1LfQCViuciA?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+				//if(videoTally > 10) {
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1LfQCViuciA?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
-				}
-				else {
+				//}
+				//else {
 				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1LfQCViuciA?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
-				}
+				//}
 				break;
 			case "9":// movement
 				$(".first").removeClass("first");
 				lastID = 9
 				videoTally++
-				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VgssxxpXpIE?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+				//if(videoTally > 10) {
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VgssxxpXpIE?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
-				}
-				else {
+				//}
+				//else {
 				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VgssxxpXpIE?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
-				}
+				//}
 				break;
 			case "10":// social security
 				$(".first").removeClass("first");
 				lastID = 10
 				videoTally++
-				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/rvGJ5OXRAr0?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+				//if(videoTally > 10) {
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/rvGJ5OXRAr0?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
-				}
-				else {
+				//}
+				//else {
 				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/rvGJ5OXRAr0?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
-				}
+				//}
 				break;
 			case "11":// expression
 				$(".first").removeClass("first");
 				lastID = 11
 				videoTally++
-				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/iHpbpD3i_pc?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+				//if(videoTally > 10) {
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/iHpbpD3i_pc?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
-				}
-				else {
+				//}
+				//else {
 				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/iHpbpD3i_pc?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
-				}
+				//}
 				break;
 			case "12":// Rock the Arc!
 				$(".first").removeClass("first");
 				lastID = 12
 				videoTally++
-				if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/OCWj5xgu5Ng?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>'
+				//if(videoTally > 10) {
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/OCWj5xgu5Ng?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
-				}
-				else {
+				//}
+				//else {
 				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/OCWj5xgu5Ng?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
-				}
+				//}
 				break;
 			default:// If something goes horribly wrong, this runs 
 				$(".first").removeClass("first");
