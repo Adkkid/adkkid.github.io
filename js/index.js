@@ -64,7 +64,7 @@ $("#modal-overlay").fadeIn("slow");
 						$(".picked").removeClass("picked");
 						$(".first").removeClass("first");
 						Memory.paused = false;
-					}, 1200);
+					}, 600);
 				}
 				if($(".matched").length == $(".card").length){
 					_.win();
@@ -82,7 +82,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 1
 				videoTally++
 				//if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1AbEPFSv9ac?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1AbEPFSv9ac?rel=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("End Video set")
 				//}
 				//else {
@@ -95,7 +95,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 2
 				videoTally++
 				//if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/MCvR_ImNKn4?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/MCvR_ImNKn4?rel=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				//}
 				//else {
@@ -108,7 +108,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 3
 				videoTally++
 				//if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/c1P5vY1_j-o?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/c1P5vY1_j-o?rel=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				//}
 				//else {
@@ -121,7 +121,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 4
 				videoTally++
 				//if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/4ewhH17Bea4?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/4ewhH17Bea4?rel=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				//}
 				//else {
@@ -134,7 +134,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 5
 				videoTally++
 				//if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Tvkbrz6V_lM?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Tvkbrz6V_lM?rel=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				//}
 				//else {
@@ -148,7 +148,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 6
 				videoTally++
 				//if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/yl4eTb39rZs?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/yl4eTb39rZs?rel=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				//}
 				//else {
@@ -161,7 +161,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 7
 				videoTally++
 				//if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/cLzS1Mev_zw?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/cLzS1Mev_zw?rel=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				//}
 				//else {
@@ -174,7 +174,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 8
 				videoTally++
 				//if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1LfQCViuciA?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1LfQCViuciA?rel=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				//}
 				//else {
@@ -187,7 +187,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 9
 				videoTally++
 				//if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VgssxxpXpIE?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VgssxxpXpIE?rel=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				//}
 				//else {
@@ -200,7 +200,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 10
 				videoTally++
 				//if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/rvGJ5OXRAr0?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/rvGJ5OXRAr0?rel=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				//}
 				//else {
@@ -213,7 +213,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 11
 				videoTally++
 				//if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/iHpbpD3i_pc?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/iHpbpD3i_pc?rel=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				//}
 				//else {
@@ -226,7 +226,7 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 12
 				videoTally++
 				//if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/OCWj5xgu5Ng?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/OCWj5xgu5Ng?rel=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				//}
 				//else {
