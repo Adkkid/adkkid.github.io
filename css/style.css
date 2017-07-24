@@ -118,6 +118,7 @@ body {
   -webkit-transform: rotateY(-180deg);
           transform: rotateY(-180deg);
   border: 7px dashed gray;
+  background-color: white;
 }
 @media (max-width: 800px) {
   .card .front {
