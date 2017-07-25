@@ -86,7 +86,7 @@ $("#modal-overlay").fadeIn("slow");
 					console.log("End Video set")
 				//}
 				//else {
-				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1AbEPFSv9ac?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
+				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1AbEPFSv9ac?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
 				//}
 				break;
@@ -99,7 +99,7 @@ $("#modal-overlay").fadeIn("slow");
 					console.log("end video")
 				//}
 				//else {
-				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/MCvR_ImNKn4?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
+				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/MCvR_ImNKn4?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
 				//}
 				break;
@@ -112,7 +112,7 @@ $("#modal-overlay").fadeIn("slow");
 					console.log("end video")
 				//}
 				//else {
-				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/c1P5vY1_j-o?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
+				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/c1P5vY1_j-o?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
 				//}
 				break;
@@ -125,7 +125,7 @@ $("#modal-overlay").fadeIn("slow");
 					console.log("end video")
 				//}
 				//else {
-				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/4ewhH17Bea4?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
+				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/4ewhH17Bea4?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
 				//}
 				break;
@@ -138,7 +138,7 @@ $("#modal-overlay").fadeIn("slow");
 					console.log("end video")
 				//}
 				//else {
-				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Tvkbrz6V_lM?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
+				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/Tvkbrz6V_lM?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
 				//}
 				lastID = 5
@@ -152,7 +152,7 @@ $("#modal-overlay").fadeIn("slow");
 					console.log("end video")
 				//}
 				//else {
-				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/yl4eTb39rZs?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
+				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/yl4eTb39rZs?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
 				//}
 				break;
@@ -165,7 +165,7 @@ $("#modal-overlay").fadeIn("slow");
 					console.log("end video")
 				//}
 				//else {
-				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/cLzS1Mev_zw?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
+				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/cLzS1Mev_zw?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
 				//}
 				break;
@@ -178,7 +178,7 @@ $("#modal-overlay").fadeIn("slow");
 					console.log("end video")
 				//}
 				//else {
-				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1LfQCViuciA?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
+				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/1LfQCViuciA?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
 				//}
 				break;
@@ -191,7 +191,7 @@ $("#modal-overlay").fadeIn("slow");
 					console.log("end video")
 				//}
 				//else {
-				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VgssxxpXpIE?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
+				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/VgssxxpXpIE?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
 				//}
 				break;
@@ -204,7 +204,7 @@ $("#modal-overlay").fadeIn("slow");
 					console.log("end video")
 				//}
 				//else {
-				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/rvGJ5OXRAr0?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
+				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/rvGJ5OXRAr0?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
 				//}
 				break;
@@ -217,7 +217,7 @@ $("#modal-overlay").fadeIn("slow");
 					console.log("end video")
 				//}
 				//else {
-				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/iHpbpD3i_pc?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
+				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/iHpbpD3i_pc?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
 				//}
 				break;
@@ -226,17 +226,17 @@ $("#modal-overlay").fadeIn("slow");
 				lastID = 12
 				videoTally++
 				//if(videoTally > 10) {
-					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/OCWj5xgu5Ng?rel=0" frameborder="0" allowfullscreen></iframe></div>'
+					document.getElementById("endVideo").innerHTML = '<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/bLy3iosQZek?rel=0" frameborder="0" allowfullscreen></iframe></div>'
 					console.log("end video")
 				//}
 				//else {
-				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/OCWj5xgu5Ng?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
+				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/bLy3iosQZek?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
 				//}
 				break;
 			default:// If something goes horribly wrong, this runs 
 				$(".first").removeClass("first");
-				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/OCWj5xgu5Ng?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe></div>');
+				$card.find('.back').html('<div class="video"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/OCWj5xgu5Ng?rel=0&autoplay=0" frameborder="0" allowfullscreen></iframe></div>');
 				$card.find('.back').addClass('success');
 				break;
 		}
